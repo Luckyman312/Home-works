@@ -17,4 +17,4 @@ func getMaxNumber(number:[Int]) -> Int {
 getMaxNumber(number: [1,3,4,5,7,10])
 
 
-var test = Cool
+var num = 1
